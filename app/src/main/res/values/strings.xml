@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Student Name: Samuel Brown
+Student ID: S1713974
+-->
+<resources>
+    <string name="app_name">Brown_Samuel_S1713974</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="DescriptionHomepageIcon">Homepage</string>
+    <string name="DescriptionInfoIcon">Information</string>
+    <string name="DescriptionSearchIcon">Search</string>
+    <string name="DescriptionRecentIcon">Recent</string>
+    <string name="DescriptionSettingsIcon">Settings</string>
+    <string name="source_flag">Source Country Flag</string>
+    <string name="target_flag">Target Country Flag</string>
+    <string name="arrow_icon">Arrow Icon</string>
+    <string name="double_arrow_icon">double-sided arrow</string>
+
+</resources>

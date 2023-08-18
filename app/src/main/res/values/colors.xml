@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Student Name: Samuel Brown
+Student ID: S1713974
+-->
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="text_black">#E6000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_blue_50">#FFE1F5FE</color>
+    <color name="light_blue_200">#FF81D4FA</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="colour_mag_0.1_0.29">#0000FF</color>
+    <color name="colour_mag_0.3_0.59">#0080FF</color>
+    <color name="colour_mag_0.6_0.89">#00BFFF</color>
+    <color name="colour_mag_0.9_1.19">#CCCC00</color>
+    <color name="colour_mag_1.2_1.49">#FF8000</color>
+    <color name="colour_mag_1.5_1.79">#FF4000</color>
+    <color name="colour_mag_1.8_2">#FF0000</color>
+</resources>
